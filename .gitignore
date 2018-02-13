@@ -1,0 +1,15 @@
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+.vs
+*.sln
+*.VC.db
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
